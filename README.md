@@ -28,4 +28,10 @@ source venv/bin/activate
 # install requirements
 pip3 install requirements.txt
 ```
+3. Run the main file:
 
+```bash
+python3 main.py
+```
+
+A pygame window should then open with the Asteroid game running and a Neural Network playing the game.
