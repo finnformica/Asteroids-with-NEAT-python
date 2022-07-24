@@ -11,7 +11,7 @@ My implementation of the NEAT algorithm using python into the arcade game astero
 1. Clone the repo:
 
 ```bash 
-https://github.com/finnformica/Asteroids-with-NEAT-python
+git clone https://github.com/finnformica/Asteroids-with-NEAT-python
 ```
 
 2. Install the requirements:
