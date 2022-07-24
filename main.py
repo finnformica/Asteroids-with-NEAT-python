@@ -4,6 +4,7 @@ import os
 import random
 import neat
 import pickle
+import math
 
 # initialise all pygame modules
 pygame.init()
